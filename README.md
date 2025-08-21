@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently studying Information Technology at Universitatea Transilvania din Brasov
-- 🌱 I’m currently learning  Web Technology and Java
+- 🔭 I’m  a last year student at Transilvania University of Brasov
+- 🌱 I’m currently learning and developing applications with Java and SpringBoot
   
 
